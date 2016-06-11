@@ -1,0 +1,8 @@
+.article {
+	padding: 15px;
+}
+
+.article__title {
+	font-size: 2.4rem;
+	border-bottom:.1rem solid #efefef;
+}

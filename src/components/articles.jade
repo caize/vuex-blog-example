@@ -1,0 +1,5 @@
+div
+	article.articles(v-for="article in articles", v-on:click="showArticle(article.id)")
+		a(href="#")
+			span.mr-10(v-date-time="article.date")
+			strong {{article.title}}
