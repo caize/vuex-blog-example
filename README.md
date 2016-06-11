@@ -1,6 +1,6 @@
 ### Introduction
 
-vuex+vue-router+webpackでblogの様なもの
+Like a Blog App, Using Vue.js + vue-router + Vuex + Webpack
 
 ### Setup
 ``` bash
